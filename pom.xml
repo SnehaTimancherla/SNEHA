@@ -4,9 +4,9 @@
 
   <groupId>groupid</groupId>
   <artifactId>testarc</artifactId>
-  <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
-
+  <version>1.0-SNAPSHOT</version>
+	
   <name>testarc</name>
   <url>http://maven.apache.org</url>
 
